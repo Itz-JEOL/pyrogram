@@ -11,7 +11,6 @@ requests
 bs4
 telegraph==2.2.0
 opencv-python-headless
-requests
 NumPy
 glitch_this
 speedtest
@@ -23,7 +22,6 @@ wget
 psutil
 humanize
 wheel
-py-tgcalls
 python-dotenv
 ujson
 beautifulsoup4
@@ -31,3 +29,4 @@ ffmpeg
 ffmpeg-python
 Pyromod==1.5
 pytz
+pykeyboard
